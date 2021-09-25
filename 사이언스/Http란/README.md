@@ -21,7 +21,7 @@ HTTP란?**
 ## URL(Uniform Resource Locators)
 URL은 서버에 자원, 데이터를 요청하기 위해 입력하는 주소입니다. URL 구조는 아래와 같습니다.
 
-![](https://images.velog.io/images/ssoop/post/16861441-534a-4963-9a89-e9497aa014c6/image.png)
+![](./images/1.png)
 
 ## HTTP 특징
 * HTTP 메시지는 HTTP 서버와 HTTP 클라이언트에 의해 해석 된다.
