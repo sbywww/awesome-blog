@@ -9,21 +9,21 @@
 
 ### 1. MySQL 설치
 
-```shell
+```bash
 sudo yum update -y
 sudo yum localinstall -y https://dev.mysql.com/get/mysql57-community-release-el7-11.noarch.rpm
 sudo yum install -y mysql-community-server
 ```
 ### 2. MySQL 실행
 
-```shell
+```bash
 sudo systemctl enable mysqld
 sudo systemctl start mysqld
 ```
 
 ### 3. MySQL 체크
 
-```shell
+```bash
 mysql --version
 sudo netstat -plntu
 ```
@@ -38,24 +38,24 @@ sudo systemctl restart mysqld
 
 ### 4. MySQL 패스워드 설정
 
-```shell
+```bash
 sudo grep 'temporary.*root@localhost' /var/log/mysqld.log | tail -n 1 | sed 's/.*root@localhost: //'
 ```
 
-```shell
+```bash
 mysql -u root -p
 ```
 해당 패스워드를 복사하고 붙여넣기하여 로그인을 합니다.
 
 
-```shell
+```bash
 mysql> ALTER USER 'root'@'localhost' IDENTIFIED BY '새로운 암호';
 mysql> FLUSH PRIVILEGES;
 ```
 
 
 ### 5. 외부 접근권한 설정
-```shell
+```bash
 mysql> GRANT ALL privileges ON *.* TO root@'%' IDENTIFIED BY '비밀번호';
 mysql> FLUSH PRIVILEGES;
 ```
