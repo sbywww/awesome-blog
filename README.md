@@ -7,5 +7,9 @@
 - [EC2에 MySQL 설치(MySQL 5.7)](https://github.com/ssoop-yoon/awesome-blog/tree/main/Cloud/AWS/EC2%EC%97%90_MySQL_%EC%84%A4%EC%B9%98(MySQL5_7))
 - [EC2에 Redis 설치](https://github.com/ssoop-yoon/awesome-blog/tree/main/Cloud/AWS/EC2%EC%97%90_Redis_%EC%84%A4%EC%B9%98)
 
+### Git
+- [깃허브(GitHub) 연동하기 (Spring Boot, IntelliJ)](https://github.com/ssoop-yoon/awesome-blog/tree/main/Git/GitHub_%EC%97%B0%EB%8F%99)
+
 ### NodeJs
 - [NodeJs 설치](https://github.com/ssoop-yoon/awesome-blog/tree/main/NodeJs/NodeJs_Install)
+
