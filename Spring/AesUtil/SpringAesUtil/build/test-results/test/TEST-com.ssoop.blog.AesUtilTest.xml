@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.ssoop.blog.AesUtilTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-10-04T11:59:08" hostname="soobinyoonui-MacBookPro.local" time="0.235">
+  <properties/>
+  <testcase name="decryptTest()" classname="com.ssoop.blog.AesUtilTest" time="0.235"/>
+  <system-out><![CDATA[com.ssoop.blog.Post{id=1, title='제목1', content='내용1'}
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
