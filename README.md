@@ -11,6 +11,9 @@
 ### Git
 - [깃허브(GitHub) 연동하기 (Spring Boot, IntelliJ)](https://github.com/ssoop-yoon/awesome-blog/tree/main/Git/GitHub_%EC%97%B0%EB%8F%99)
 
+### Spring
+- [AES 암호화 복호화 (Spring & NodeJs 완벽 호환)](https://github.com/ssoop-yoon/awesome-blog/tree/main/Spring/AesUtil)
+
 ### NodeJs
 - [NodeJs 설치](https://github.com/ssoop-yoon/awesome-blog/tree/main/NodeJs/NodeJs_Install)
 
