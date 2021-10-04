@@ -2,7 +2,7 @@
 
 ## AES 256 암호화
 평문 데이터를 암호화하는 방법이며, 비밀키 하나로 데이터를 암호화 또는 복호화하는 방법입니다.  
-모든 소스는 [깃허브]()에 있습니다.
+모든 소스는 [깃허브](https://github.com/ssoop-yoon/awesome-blog/tree/main/Spring/AesUtil) 에 있습니다.
 
 ## Spring & Java
 
