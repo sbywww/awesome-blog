@@ -10,6 +10,7 @@
 
 ### Git
 - [깃허브(GitHub) 연동하기 (Spring Boot, IntelliJ)](https://github.com/ssoop-yoon/awesome-blog/tree/main/Git/GitHub_%EC%97%B0%EB%8F%99)
+- [원격저장소에 올라간 Commit Revert 하기](https://github.com/ssoop-yoon/awesome-blog/tree/main/Git/Commit_Revert)
 
 ### Spring
 - [AES 암호화 복호화 (Spring & NodeJs 완벽 호환)](https://github.com/ssoop-yoon/awesome-blog/tree/main/Spring/AesUtil)
