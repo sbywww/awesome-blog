@@ -15,6 +15,7 @@
 - [원격저장소에 올라간 Commit Revert 하기](https://github.com/ssoop-yoon/awesome-blog/tree/main/Git/Commit_Revert)
 - [SVN 명령어 정리](https://github.com/ssoop-yoon/awesome-blog/tree/main/Git/SVN_%EB%AA%85%EB%A0%B9%EC%96%B4)
 - [Git Flow Integration으로 사용하는 방법](https://github.com/ssoop-yoon/awesome-blog/tree/main/Git/GitFlow_Integradtion)
+- [EC2에 Git 설치](https://github.com/ssoop-yoon/awesome-blog/tree/main/Git/EC2_Git_%EC%84%A4%EC%B9%98)
 
 ### Spring
 - [AES 암호화 복호화 (Spring & NodeJs 완벽 호환)](https://github.com/ssoop-yoon/awesome-blog/tree/main/Spring/AesUtil)
