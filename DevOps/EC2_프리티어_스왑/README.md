@@ -20,7 +20,7 @@ sudo dd if=/dev/zero of=/var/swap/swapfile bs=128M count=16
 ls -l /var/swap
 ```
 
-![](./images/1.png)
+![](images/1.png)
 
 ## 스왑 파일 설정
 
@@ -48,7 +48,7 @@ sudo vi /etc/fstab
 /var/swap/swapfile    none    swap    defaults    0 0 
 ```
 
-![](./images/2.png)
+![](images/2.png)
 
 ## 최종 확인
 메모리를 확인해보면 정상적으로 메모리가 늘어난 것을 확인할 수 있습니다.
@@ -56,7 +56,7 @@ sudo vi /etc/fstab
 free
 ```
 
-![](./images/3.png)
+![](images/3.png)
 
 ### 참고
 https://aws.amazon.com/ko/premiumsupport/knowledge-center/ec2-memory-swap-file/

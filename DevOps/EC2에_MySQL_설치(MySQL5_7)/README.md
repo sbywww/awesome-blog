@@ -27,7 +27,7 @@ sudo systemctl start mysqld
 mysql --version
 sudo netstat -plntu
 ```
-![](./images/1.png)
+![](images/1.png)
 
 3306 포트가 떠있다면 정상적으로 실행되고 있다는 의미입니다.
 만약 3306 포트가 안보인다면 재실행 해보면 됩니다.

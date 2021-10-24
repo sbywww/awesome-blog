@@ -11,14 +11,14 @@ EC2 생성 과정은 생략하며 EC2 생성 방법을 모르시면 [EC2 생성�
 ```bash
 ssh -i "pem 파일" ec2-user@IP주소
 ```
-![](./images/1.png)
+![](images/1.png)
 
 ### 2. EC2 비밀번호 설정
 
 ```bash
 sudo passwd ec2-user
 ```
-![](./images/2.png)
+![](images/2.png)
 
 ### 3. EC2 비밀번호로 접속 권한 설정
 
@@ -33,7 +33,7 @@ PasswordAuthentication yes
 #PasswordAuthentication no
 ```
 
-![](./images/3.png)
+![](images/3.png)
 
 ### 4. sshd 재시작
 
@@ -48,7 +48,7 @@ EC2에 다시 접속하여 확인해보시면 됩니다.
 ```bash
 ssh ec2-user@IP 주소
 ```
-![](./images/4.png)
+![](images/4.png)
 
 ### 마무리
 

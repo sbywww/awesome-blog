@@ -59,7 +59,7 @@ sudo chmod 755 /etc/init.d/redis-server
 ```bash
 sudo vim /etc/init.d/redis-server
 ```
-![](./images/2.png)
+![](images/2.png)
 
 ### 8. redis-Server Auto-Enable 설정
 ```bash
