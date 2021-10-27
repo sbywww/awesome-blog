@@ -19,6 +19,7 @@
 
 ### Spring
 - [AES 암호화 복호화 (Spring & NodeJs 완벽 호환)](https://github.com/ssoop-yoon/awesome-blog/tree/main/Spring/AesUtil)
+- [SpringBoot Multimodule(멀티모듈)로 구성하기](https://github.com/ssoop-yoon/awesome-blog/tree/main/Spring/MultiModule)
 
 ### NodeJs
 - [NodeJs 설치](https://github.com/ssoop-yoon/awesome-blog/tree/main/NodeJs/NodeJs_Install)
