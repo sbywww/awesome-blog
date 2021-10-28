@@ -9,6 +9,7 @@
 - [AWS EC2 Pem키 없이 비밀번호로 접속하기](https://github.com/ssoop-yoon/awesome-blog/tree/main/DevOps/EC2_pem%ED%82%A4_%EC%97%86%EC%9D%B4_%EB%B9%84%EB%B0%80%EB%B2%88%ED%98%B8%EB%A1%9C_%EC%A0%91%EC%86%8D%ED%95%98%EA%B8%B0)
 - [AWS EC2 프리티어 메모리 부족 해결방법](https://github.com/ssoop-yoon/awesome-blog/tree/main/DevOps/EC2_%ED%94%84%EB%A6%AC%ED%8B%B0%EC%96%B4_%EC%8A%A4%EC%99%91)
 - [AWS EC2 Java 설치](https://github.com/ssoop-yoon/awesome-blog/tree/main/DevOps/EC2_Java_%EC%84%A4%EC%B9%98)
+- [EC2 UTC-KST 시스템 시간 변경](https://github.com/ssoop-yoon/awesome-blog/tree/main/DevOps/EC2_UTC_KST_%EB%B3%80%EA%B2%BD)
 
 ### Git
 - [깃허브(GitHub) 연동하기 (Spring Boot, IntelliJ)](https://github.com/ssoop-yoon/awesome-blog/tree/main/Git/GitHub_%EC%97%B0%EB%8F%99)
