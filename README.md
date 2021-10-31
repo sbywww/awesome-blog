@@ -11,6 +11,7 @@
 - [AWS EC2 Java 설치](https://github.com/ssoop-yoon/awesome-blog/tree/main/DevOps/EC2_Java_%EC%84%A4%EC%B9%98)
 - [EC2 UTC-KST 시스템 시간 변경](https://github.com/ssoop-yoon/awesome-blog/tree/main/DevOps/EC2_UTC_KST_%EB%B3%80%EA%B2%BD)
 - [EC2에 Jenkins(젠킨스)를 설치하고 배포하기 #1](https://github.com/ssoop-yoon/awesome-blog/tree/main/DevOps/EC2_Jenkins)
+- [Jenkins Github Access Token으로 연동하기](https://github.com/ssoop-yoon/awesome-blog/tree/main/DevOps/Jenkins_Github_Token)
 
 ### Git
 - [깃허브(GitHub) 연동하기 (Spring Boot, IntelliJ)](https://github.com/ssoop-yoon/awesome-blog/tree/main/Git/GitHub_%EC%97%B0%EB%8F%99)
